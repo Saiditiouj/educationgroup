@@ -1,6 +1,6 @@
 # educationgroup
 
-<!DOCTYPE html>
+# <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -177,7 +177,7 @@
 </head>
 <body>
     <div class="container">
-        <h1><i class="fas fa-terminal icon"></i>Welcome to **said community**!</h1>
+        <h1><i class="fas fa-terminal icon"></i>Welcome to said community </h1>
         <p>
             <span style="color: var(--neon-green);">></span> Initializing connection...<br>
             <span style="color: var(--neon-green);">></span> Access granted.<br>
